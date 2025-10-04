@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    line-height: var(--espacamento-texto);
+    color: var(--cor-texto-escuro);
+    background-color: var(--cor-fundo-claro);
+    font-size: var(--tamanho-fonte-base);
+}
+
+a {
+    color: var(--cor-primaria);
+    text-decoration: none;
+}
